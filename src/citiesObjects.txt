@@ -1,0 +1,5 @@
+class:Park, name:Wictory, id:null, lenght:100, width:100
+class:Street, name:Lenina, id:null, lenght: 150, width: 5
+class:Park, name:Panfilov, id:null, lenght:120, width:120
+class:Street, name:Pushkina, id:null, lenght: 200, width: 10
+class:Street, name:Naberezhnaja, id:null, lenght: 100, width: 8
